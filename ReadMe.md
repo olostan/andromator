@@ -1,16 +1,16 @@
-*** This is Android Automator ***
+# This is Android Automator
 
 Ever needed simple tool to automate some actions on Android phone? In a form "if there is ... on a screen, then click here"? Then "Andromator" is a tool for you!
 
 Just clone repo, make some screenshots, change configuration file (which area and where to click) and plug your phone to USB!
 
-** Prerequisits **
+## Prerequisits
 
 - Installed latest stable NodeJS (8.9 is ok).
 - Enable USB Debugging on your phone
 - Have `adb` tool installed on your box
 
-** How to use **
+## How to use**
 
 1. Close repo: `git clone https://github.com/olostan/andromator.git`
 
