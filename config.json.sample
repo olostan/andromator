@@ -1,0 +1,22 @@
+{
+    "conditions": [
+        {
+            "comment": "Wellcome screen",
+            "image": "c/wellcome.png",
+            "area": [30,1460,1020,1682],
+            "action": {
+                "type": "tap",
+                "coord": [120,1520]
+            }
+        },
+        {
+            "comment": "Profile page",
+            "image": "c/profile.png",
+            "area": [360,1373,706,1465],
+            "action": {
+                "type": "tap",
+                "coord": [522,1426]
+            }
+        }
+    ]
+}
